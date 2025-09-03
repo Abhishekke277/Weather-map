@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #39a9c5;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#weatherResult {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#map {
+    background-image: url(img\ picture.gif);
+    height: 500px;
+    width: 90%;
+    margin: 20px auto;
+    border-radius: 10px;
+
+
+}
+
+#map {
+    height: 500px;
+    width: 90%;
+    margin: 20px auto;
+    border-radius: 10px;
+}
